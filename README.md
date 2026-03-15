@@ -21,8 +21,6 @@ Network access if repairing network printers
 
 If the tool is not run as administrator, it will automatically stop and display an error message.
 
-
-
 🚀 How to Use
 Download the script file.
 
